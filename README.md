@@ -1,2 +1,15 @@
-# appsec-playbook
-Most AppSec guides = theory.  Real bugs look like: - order_id change → data leak - user_id change → account takeover Practical guide with real examples
+# SecVanta AppSec Playbook
+
+Practical notes and workflows for application security testing.
+
+## Topics Covered
+- IDOR testing patterns
+- XSS context understanding
+- SSRF basics
+- API security issues
+- JWT vulnerabilities
+
+This repo contains free insights.
+
+Full guide:
+https://secvanta.gumroad.com/l/ohmho
